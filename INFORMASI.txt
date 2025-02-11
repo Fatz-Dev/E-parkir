@@ -4,7 +4,7 @@ PROJECT "E-PARKIR"
 
 LOGIN
 'Admin'
-'email' => 'fata@gmail.com', 
+'email' => 'admin@gmail.com', 
 'password' =>'Admin123'
 
 

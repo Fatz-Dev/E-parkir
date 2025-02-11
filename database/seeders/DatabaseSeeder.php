@@ -15,7 +15,7 @@ class DatabaseSeeder extends Seeder
         // Membuat data user baru secara otomatis
         User::create([
             'name' => 'Admin', // Nama user yang akan dibuat
-            'email' => 'fata@gmail.com', // Email user
+            'email' => 'admin@gmail.com', // Email user
             'password' => bcrypt('Admin123'), // Password user, dienkripsi menggunakan bcrypt
         ]);
     }

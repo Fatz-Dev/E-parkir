@@ -1,0 +1,11 @@
+
+
+PROJECT "E-PARKIR"
+
+LOGIN
+'Admin'
+'email' => 'fata@gmail.com', 
+'password' =>'Admin123'
+
+
+PROJECT BELAJAR BY YOUTUBE = https://youtu.be/Xdnu8vdDOjw?si=0XwpDSphauPjinOD
